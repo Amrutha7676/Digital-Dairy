@@ -1,0 +1,44 @@
+--- Digital Diary ---
+1. Write a new entry
+2. View all entries
+3. Search diary
+4. Exit
+Enter your choice (1-4): 1
+Write your diary entry:
+auotography
+✅ Entry saved successfully!
+
+--- Digital Diary ---
+1. Write a new entry
+2. View all entries
+3. Search diary
+4. Exit
+Enter your choice (1-4): 2
+
+📝 Your Diary Entries:
+
+
+[2025-05-11 11:52:40]
+auotography
+
+
+--- Digital Diary ---
+1. Write a new entry
+2. View all entries
+3. Search diary
+4. Exit
+Enter your choice (1-4): 3
+Enter a keyword or date (YYYY-MM-DD): auotography
+
+🔍 Search Results for 'auotography':
+
+auotography
+
+
+--- Digital Diary ---
+1. Write a new entry
+2. View all entries
+3. Search diary
+4. Exit
+Enter your choice (1-4): 4
+👋 Goodbye!
